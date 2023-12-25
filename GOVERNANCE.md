@@ -71,3 +71,18 @@ as if he had become deceased.
 
 As with everything else, the BDFL may change these rules of succession
 at any time, including by naming a successor.
+
+## Code of Conduct
+
+As a community organization, it is important that we conduct ourselves
+in a manner that is welcoming and respectful of others.
+
+Accordingly, we have adopted a Code of Conduct.  The BDFL is the
+sole enforcer of the code, and may take actions as he sees necessary
+in such enforcement for the good of the community.
+
+There is no recourse, other than the Right to Fork, in the even that the
+BDFL himself is found to have violated the Code of Conduct.
+
+The BDFL however states that he intends to conduct himself in accordance
+with the Code of Conduct.
