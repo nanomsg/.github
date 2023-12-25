@@ -55,21 +55,28 @@ Nobody lives forever, not even BDFLs.
 
 In the event that the BDFL becomes deceased, or legally declared incompetent
 (following the laws of his state of residence, California), it is his
-intent that the Leadership Council shall take over his duties and run the
-project by a simple majority rule, excepting that any action that runs
-in contravention to the principles set forth herein, or to change such
-principles of leadership, shall require a 2/3
-majority of all council members to approve.
+intent that the Leadership Council shall provide a continuity of leadership
+for the project.
+
+In this case, decisions pertaining to the day-to-day operations of the
+project shall require a simple majority of all then serving Council Members.
+
+Further, decisions changing the manner of governance of the project
+shall require a 2/3 supermajority of then serving Council Members.
 
 Further, in the event that the BDFL is no longer able to serve, having
 been deceased or become legally incompetent, the then serving Leadership
 Council may unanimously elect a new BDFL, who will then obtain all the
 rights associated with BDFL.
 
-A BDFL may willing abdicate, in writing.  In such case, it shall be treated
-as if he had become deceased.
+In the case of a temporary impairment (incompetence), if the Leadership
+Council has not elected a successor BDFL first, the previous BDFL shall
+regain their BDFL status.
 
-As with everything else, the BDFL may change these rules of succession
+A BDFL may willingly abdicate, in writing.
+In such case, it shall be treated as if he had become deceased.
+
+As with everything else, the serving BDFL may change these rules of succession
 at any time, including by naming a successor.
 
 ## Code of Conduct
@@ -77,9 +84,10 @@ at any time, including by naming a successor.
 As a community organization, it is important that we conduct ourselves
 in a manner that is welcoming and respectful of others.
 
-Accordingly, we have adopted a Code of Conduct.  The BDFL is the
-sole enforcer of the code, and may take actions as he sees necessary
-in such enforcement for the good of the community.
+Accordingly, we have adopted a [Code of Conduct](./CODE_OF_CONDUCT.md).
+
+The BDFL is the sole enforcer of the code, and may take actions as he
+sees necessary in such enforcement for the good of the community.
 
 There is no recourse, other than the Right to Fork, in the even that the
 BDFL himself is found to have violated the Code of Conduct.
